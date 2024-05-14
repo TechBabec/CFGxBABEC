@@ -73,7 +73,7 @@ function HomePage() {
                 </Link>
               </div>
               <div className="form">
-                <Link to="https://babec.org/curricula" onClick={handleInsectClick}>
+                <Link to="https://wolbachia.babec.org/entryform" onClick={handleInsectClick}>
                 <img src="./form.png"
                      onClick={handleInsectClick}
                 />
